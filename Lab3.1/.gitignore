@@ -1,0 +1,30 @@
+# Об’єктні файли
+*.o
+*.obj
+
+# Виконувані файли
+*.exe
+*.out
+*.app
+a.out
+
+# Згенеровані бібліотеки
+*.so
+*.dll
+*.dylib
+*.a
+
+# Файли залежностей (якщо використовуєш -MMD)
+*.d
+
+app
+app.exe
+
+# Docker
+.docker/
+docker-compose.override.yml
+*.log
+
+.vscode/
+
+Thumbs.db
